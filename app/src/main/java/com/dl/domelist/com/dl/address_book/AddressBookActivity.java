@@ -29,6 +29,8 @@ public class AddressBookActivity extends AppCompatActivity {
         initView();
     }
 
+
+
     private void initView() {
         ab_ref_btn = (Button) findViewById(R.id.ab_btn_ref);
         ab_addreses_lv = (ListView) findViewById(ab_lv_addreses);
