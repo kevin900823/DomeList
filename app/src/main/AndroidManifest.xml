@@ -55,7 +55,7 @@ android:installLocation="auto" 应用程序安装位置 |auto 自动 默认系�
     <!--允许程序安装另一个应用程序-->
     <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
 
-<!--提交木有啊-->
+
 
     <application
         android:allowBackup="true"
